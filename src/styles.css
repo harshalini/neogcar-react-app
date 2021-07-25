@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.upper {
+  background-color: #fc5404;
+  margintop: 0;
+}
+
+.footer {
+  text-align: center;
+  background-attachment: fixed;
+  background-color: #fc5404;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
