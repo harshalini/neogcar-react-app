@@ -128,7 +128,7 @@ export default function App() {
           PeeP PeeP 📯
         </h1>
         <h2>Checkout the most loved cars of India!</h2>
-        <h3> Select any car company shown below</h3>
+        <h3> Select any car manufacturer shown below</h3>
 
         {lovedCompanies.map((company) => (
           <button
@@ -161,8 +161,8 @@ export default function App() {
               style={{
                 backgroundColor: "#FAAD80",
                 padding: "0.7rem",
-                paddingBottom: "3.5rem",
-
+                paddingBottom: "4.5rem",
+                alignItems: "center",
                 border: "2px solid #FF616D",
                 //float: "left",
                 width: "60%",

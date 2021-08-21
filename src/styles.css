@@ -12,6 +12,10 @@
   color: white;
   margin-top: 0;
 }
+.lower {
+  text-align: center;
+  align-items: center;
+}
 
 .footer {
   text-align: center;
